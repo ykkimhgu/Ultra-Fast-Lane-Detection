@@ -11,11 +11,10 @@ This Code includes lane detection code for Web-cam and Video files.
 
 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/69523669/147495615-045c2f78-db17-437c-9f63-80d763c84b7c.gif">
+<img src="https://user-images.githubusercontent.com/69523669/147495615-045c2f78-db17-437c-9f63-80d763c84b7c.gif" width="600px">
 
 ![Hnet-image (4)](https://user-images.githubusercontent.com/69523669/147495615-045c2f78-db17-437c-9f63-80d763c84b7c.gif)
-
-  
+<p align="center">
 ### Requirements
 For running the code, the following environments are required. 
 - Linux(Ubuntu 18.04)
