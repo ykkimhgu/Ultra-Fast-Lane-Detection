@@ -15,7 +15,9 @@ For running the code, the following environments are required.
 - Linux(Ubuntu 18.04)
 - CUDA ver 10.2
 - CuDNN 8.0.5
-(This code is only executed in above environment, depending on the computer environment, it maybe possible to run the code in other environments.)
+- Python 3.7 (Conda virtual environment) 
+- OpenCV C++
+(This code is only executed in above environment, depending on the computer environment, it maybe possible to run the code in other environments.(e.g. Windows OS))
 For install, please see [INSTALL.md](./INSTALL.md)
 
 ### Following Description is from the https://github.com/cfzd/Ultra-Fast-Lane-Detection 
