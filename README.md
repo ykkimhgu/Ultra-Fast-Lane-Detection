@@ -10,9 +10,9 @@ This Code includes lane detection code for Web-cam and Video files.
 ## Demo 
 
 ![Hnet-image (5)](https://user-images.githubusercontent.com/69523669/147496312-cefbd928-238f-4542-acfb-ca77fa18df98.gif)
+
 <img src="https://user-images.githubusercontent.com/69523669/147495615-045c2f78-db17-437c-9f63-80d763c84b7c.gif" width="600px">
 
-![Hnet-image (4)](https://user-images.githubusercontent.com/69523669/147495615-045c2f78-db17-437c-9f63-80d763c84b7c.gif)
 
 ### Requirements
 For running the code, the following environments are required. 
@@ -26,9 +26,11 @@ For running the code, the following environments are required.
 For install, please see [INSTALL.md](./INSTALL.md)
 
 ### Youtube Code Review and How to Run Video [Korean]
+
 ><a href="https://www.youtube.com/watch?v=BDvIT49YA40
 >" target="_blank"><img src="https://img.youtube.com/vi/BDvIT49YA40/0.jpg" 
 >alt="Demo" width="240" height="180" border="10" /></a>
+
 
 ><a href="https://youtu.be/RgvjWEfOHpU
 >" target="_blank"><img src="https://img.youtube.com/vi/RgvjWEfOHpU/0.jpg" 
