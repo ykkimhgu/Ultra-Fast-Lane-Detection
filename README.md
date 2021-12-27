@@ -10,11 +10,13 @@ This Code includes lane detection code for Web-cam and Video files.
 ## Demo 
 
 
-
-For the code execution, the following environments are required.
-Ubuntu 
-
-
+### Requirements
+For running the code, the following environments are required. 
+- Linux(Ubuntu 18.04)
+- CUDA ver 10.2
+- CuDNN 8.0.5
+(This code is only executed in above environment, depending on the computer environment, it maybe possible to run the code in other environments.)
+For install, please see [INSTALL.md](./INSTALL.md)
 
 ### Following Description is from the https://github.com/cfzd/Ultra-Fast-Lane-Detection 
 
