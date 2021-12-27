@@ -10,6 +10,7 @@ This Code includes lane detection code for Web-cam and Video files.
 ## Demo 
 
 <img style="max-width: 100%; height: auto;" src="https://drive.google.com/file/d/1Sz8uCCs6OGv0J7CwbNMGotOrwhPYv83V/view?usp=sharing" >
+<p align="center"> <img src="https://drive.google.com/file/d/1Sz8uCCs6OGv0J7CwbNMGotOrwhPYv83V/view?usp=sharing" width="350" title="hover text"> </p>
 
 
 ### Requirements
