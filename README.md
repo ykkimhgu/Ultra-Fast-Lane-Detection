@@ -9,22 +9,9 @@ This Code includes lane detection code for Web-cam and Video files.
 
 ## Demo 
 
+![image](https://i.imgur.com/HjDrfhph.gif)
 
 
-![image](https://drive.google.com/file/d/1Sz8uCCs6OGv0J7CwbNMGotOrwhPYv83V/view?usp=sharing)
-
-<img src="https://drive.google.com/file/d/1Sz8uCCs6OGv0J7CwbNMGotOrwhPYv83V/view?usp=sharing" width="40" height="40" />
-
-
-<a href="https://drive.google.com/uc?export=view&id=1Sz8uCCs6OGv0J7CwbNMGotOrwhPYv83V"><img src="https://drive.google.com/uc?export=view&id=1Sz8uCCs6OGv0J7CwbNMGotOrwhPYv83V" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
-
-https://drive.google.com/file/d/1Sz8uCCs6OGv0J7CwbNMGotOrwhPYv83V/view?usp=sharing
-https://drive.google.com/file/d/1DAme67XdwfBpJnInk4RbrfTwPlSvklM4/view?usp=sharing
-
-<img src="https://imgur.com/zZXPrkt">
-  
-  
-![lane1.gif]()
   
 ### Requirements
 For running the code, the following environments are required. 
@@ -37,7 +24,7 @@ For running the code, the following environments are required.
 (This code is only executed in above environment, depending on the computer environment, it maybe possible to run the code in other environments.(e.g. Windows OS))
 For install, please see [INSTALL.md](./INSTALL.md)
 
-### Following Description is from the https://github.com/cfzd/Ultra-Fast-Lane-Detection 
+## The following description is from the https://github.com/cfzd/Ultra-Fast-Lane-Detection 
 
 >## Ultra-Fast-Lane-Detection
 >PyTorch implementation of the paper "[Ultra Fast Structure-aware Deep Lane Detection](https://arxiv.org/abs/2004.11757)".
