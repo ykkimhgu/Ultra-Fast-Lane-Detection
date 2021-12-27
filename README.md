@@ -11,7 +11,7 @@ This Code includes lane detection code for Web-cam and Video files.
 
 <img src="https://user-images.githubusercontent.com/69523669/147495615-045c2f78-db17-437c-9f63-80d763c84b7c.gif" width="600px">
 
-
+<img src="https://i.imgur.com/PTL8OHrh.gif" width="600px">
 ### Requirements
 For running the code, the following environments are required. 
 - Linux(Ubuntu 18.04)
