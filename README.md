@@ -42,6 +42,10 @@ For install, please see [INSTALL.md](./INSTALL.md)
 >" target="_blank"><img src="https://img.youtube.com/vi/RgvjWEfOHpU/0.jpg" 
 >alt="Demo" width="240" height="180" border="10" /></a>
 
+### Trained Weight Files
+
+will update the google drive url here later
+
 ## The following description is from the https://github.com/cfzd/Ultra-Fast-Lane-Detection 
 
 >## Ultra-Fast-Lane-Detection
