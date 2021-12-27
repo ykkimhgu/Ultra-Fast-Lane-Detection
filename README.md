@@ -11,6 +11,7 @@ This Code includes lane detection code for Web-cam and Video files.
 
 ![Hnet-image (5)](https://user-images.githubusercontent.com/69523669/147496312-cefbd928-238f-4542-acfb-ca77fa18df98.gif)
 
+<img src="https://user-images.githubusercontent.com/69523669/147499953-68952887-7cb7-4435-8a6b-2d375a5d2c4a.gif" width="600px">
 <img src="https://user-images.githubusercontent.com/69523669/147495615-045c2f78-db17-437c-9f63-80d763c84b7c.gif" width="600px">
 
 
