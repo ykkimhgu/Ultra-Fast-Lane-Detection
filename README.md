@@ -25,7 +25,6 @@ PyTorch implementation of the paper "[Ultra Fast Structure-aware Deep Lane Detec
 
 Updates: Our paper has been accepted by ECCV2020.
 
-![alt text](vis.jpg "vis")
 
 The evaluation code is modified from [SCNN](https://github.com/XingangPan/SCNN) and [Tusimple Benchmark](https://github.com/TuSimple/tusimple-benchmark).
 
