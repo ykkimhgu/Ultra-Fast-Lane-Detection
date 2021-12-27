@@ -10,9 +10,11 @@ This Code includes lane detection code for Web-cam and Video files.
 ## Demo 
 
 <img src="https://user-images.githubusercontent.com/69523669/147495615-045c2f78-db17-437c-9f63-80d763c84b7c.gif" width="600px">
-![HADA (1)](https://user-images.githubusercontent.com/69523669/147501124-f278fd28-9c18-4351-b4bd-fc21098b5c94.gif)
+
 <img src="https://user-images.githubusercontent.com/69523669/147501124-f278fd28-9c18-4351-b4bd-fc21098b5c94.gif" width="600px">
 
+
+## Youtube Video link
 ><a href="https://youtu.be/wQOL6idaHNY
 >" target="_blank"><img src="https://img.youtube.com/vi/wQOL6idaHNY/0.jpg" 
 >alt="Demo" width="240" height="180" border="10" /></a>
