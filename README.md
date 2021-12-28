@@ -5,7 +5,7 @@
 PyTorch implementation of the paper "[Ultra Fast Structure-aware Deep Lane Detection](https://arxiv.org/abs/2004.11757)".
 
 The original github code doesn't provide real-time lane detection code.(Lane Detection with Webcam source or Video source)
-This Code includes lane detection code for Web-cam and Video files.
+This Code also includes lane detection code for Web-cam and Video files.
 
 ## Demo 
 
