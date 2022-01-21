@@ -1,4 +1,7 @@
 
+# Preparation
+0. Install conda
+
 # Install
 1. Clone the project
 
