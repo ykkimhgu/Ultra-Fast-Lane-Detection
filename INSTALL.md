@@ -1,6 +1,6 @@
 
 # Preparation
-0. Install conda
+0. Install conda for Python 3.7.0
 
 # Install
 1. Clone the project
